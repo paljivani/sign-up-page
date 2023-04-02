@@ -1,0 +1,10 @@
+.box
+{
+  cursor: pointer;
+  transition: all 0.5s;
+  font-weight: 600;
+}
+.box :hover
+{
+  color: rgb(253, 206, 19);
+}
